@@ -13,13 +13,3 @@ Software engineer
 
 
 
-## 🔗 Connect with Me
-
-<!-- Replace the # with your actual profile URLs -->
-
-- [LinkedIn](https://www.linkedin.com/in/yeabsira-asfaw/)
-- [Twitter](https://x.com/ysa4_dev)
-- [Website](https://ysa4.dev)
-
-
-
